@@ -1,0 +1,25 @@
+{
+  "name": "flags-world-react",
+  "version": "1.0.0",
+  "description": "React component for displaying world flags using separate SVG files.",
+  "main": "dist/flags-world-react.es.js",
+  "module": "dist/flags-world-react.es.js",
+  "scripts": {
+    "build": "vite build",
+    "prepare": "npm run build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elovejo/flags-world-react.git"
+  },
+  "keywords": ["react", "flags", "svg", "world flags"],
+  "author": "el Ovejo",
+  "license": "MIT"
+}
