@@ -44,4 +44,6 @@ Use the Flag component in your file JSX:
 | `className`  | `string` | Custom class name for the flag element|
 | `style`  | `object` | Inline style object to apply directly to SVG element|
 
-[WEBSITE](https://elovejo.com/flags-world-react/)
+[Website](https://elovejo.com/flags-world-react/)
+
+[List of flags](https://elovejo.com/flags-world-react/listFlags.json)

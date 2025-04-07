@@ -1,6 +1,6 @@
 {
   "name": "flags-world-react",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React component for displaying world flags using separate SVG files.",
   "main": "dist/flags-world-react.es.js",
   "module": "dist/flags-world-react.es.js",
