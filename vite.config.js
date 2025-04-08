@@ -8,6 +8,7 @@ export default defineConfig({
       entry: "src/index.js",
       name: "flags-world-react",
       fileName: (format) => `flags-world-react.${format}.js`,
+      formats: ["es", "umd"]
     },
     rollupOptions: {
       external: ["react", "react-dom"],
