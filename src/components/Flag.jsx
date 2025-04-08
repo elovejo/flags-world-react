@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Flag = ({ countryCode, width = 100, height = 60, className, style }) => {
     if (!countryCode) {
         console.error("Country code is required");
